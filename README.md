@@ -24,8 +24,8 @@ Make assumptions in the implementation explicit, choices are good but need to be
 ## Running the tests
 
 * To test just execute as JUnit the classes 
-	```DiffUnitTest for rule tests.
-	```DiffIntTest for integration tests.
+-DiffUnitTest for rule tests.
+-DiffIntTest for integration tests.
 
 ## Deployment
 
